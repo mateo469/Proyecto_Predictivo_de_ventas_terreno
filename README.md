@@ -21,4 +21,10 @@ Ajustar un modelo de regresión que permita predecir el precio de nuevos terreno
 Evaluar la precisión del modelo y visualizar los resultados para facilitar su interpretación.
 
 **Justificación:** 
+
 Contar con una herramienta que permita estimar el precio de terrenos puede ser útil para compradores, vendedores y desarrolladores inmobiliarios. Además, este proyecto permite aplicar técnicas de análisis de datos, visualización y modelado predictivo con Python, fortaleciendo el portafolio técnico del desarrollador.
+
+*Visualización de la grafica final del proyecto*
+
+![Grafica final](https://1drv.ms/i/c/c785bbebf4c08ffc/EVoRL7Rx_4pCt-WDPeFzoZgBl2wLIHKsVJssHLRsWj58JQ?e=PYjdaF)
+
