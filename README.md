@@ -1,4 +1,4 @@
-##🧩 Problemática: Predicción del precio de terrenos según su tamaño.
+# 🧩 Problemática: Predicción del precio de terrenos según su tamaño.
 
 Contexto: En el mercado inmobiliario de zonas semiurbanas, como Las Choapas o municipios cercanos, el precio de los terrenos suele depender principalmente de su tamaño en metros cuadrados. 
 Sin embargo, esta relación no siempre es lineal ni evidente, ya que intervienen otros factores como la ubicación, accesibilidad, servicios disponibles y demanda local.
