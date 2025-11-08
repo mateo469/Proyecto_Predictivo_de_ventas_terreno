@@ -26,5 +26,5 @@ Contar con una herramienta que permita estimar el precio de terrenos puede ser √
 
 *Visualizaci√≥n de la grafica final del proyecto*
 
-![Grafica final](https://1drv.ms/i/c/c785bbebf4c08ffc/EVoRL7Rx_4pCt-WDPeFzoZgBl2wLIHKsVJssHLRsWj58JQ?e=PYjdaF)
+![Grafica final](https://drive.google.com/file/d/1FhBXhHuNJ8JfQkwcWGJ_Eh2UoEcOm3Hd/view?usp=sharing)
 
